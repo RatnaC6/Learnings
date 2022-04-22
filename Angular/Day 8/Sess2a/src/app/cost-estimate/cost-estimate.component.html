@@ -1,0 +1,13 @@
+<div style="border: 1px blueviolet ridge;float: left;border-radius: 3px;">
+    <h3>Estimated Project Costs</h3>
+    <label class="flex-item" for="projectTypeDropDown">Select Type of Project</label>&nbsp;
+    <select class="flex-item" id="projectTypeDropDown" [(ngModel)] = "selectedProjectCost" (change)="getProjectCost()">
+        <option [value]="projectType.cost" *ngFor="let projectType of projectTypes">
+            {{projectType.type}}
+        </option>
+    </select>
+
+    <p *ngIf="selectedProjectCost">
+        Costing starts at <span class="priceLabel">{{selectedProjectCost | currency}}</span>
+    </p>
+</div>

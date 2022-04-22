@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Sess2.Models.Office>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Our Locations</h1>
+<form method="get" asp-action="Find" asp-controller="Office">
+    <p>
+        Find Location <input type="text" id="city" name="city" />
+        <input type="submit" value="Search" />     
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>          
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>          
+        </tr>
+}
+    </tbody>
+</table>

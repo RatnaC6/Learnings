@@ -1,0 +1,36 @@
+Asp.Net Core:
+ -Used for building web applications
+ -Major Modules
+   -Asp.Net MVC Core
+   -Asp.Net Core Web API
+   -Asp.Net SignalR
+   -Asp.Net Core Razor Pages
+   -Blazor
+
+Asp.Net Core Project Types:
+1. Asp.Net Core Web App - Asp.Net Core Razor Pages
+2. Asp.Net Core Web App (Model - View - Controller) - Asp.Net MVC Core
+3. Asp.Net Core (Empty) - Empty Project with no ready made code
+4. As.Net Core Web API - Asp.Net Core Web API
+5. Asp.Net Core gRPC - SignalR
+6. Asp.Net Core with Angular - Asp.Net Core with Angular front end
+7. Asp.Net Core with React - Asp.Net Core with React front end
+8. Blazor Web Assembly - Client side Blazor through Web Assembly
+9. Blazor Server - Server side Blazor
+
+Asp.Net MVC Core:
+ -Based on Model - View - Controller Pattern
+ 
+
+Action
+ -Public function inside a Controller
+ -Can return:
+   -HttpStatusCode
+   -View
+   -File
+   -Json
+   -Redirect
+
+Routing
+  -Endpoint Based Routing
+  -Attribute Based Routing

@@ -1,0 +1,12 @@
+﻿<h3>Members online Now</h3>
+
+<p id="result">
+
+</p>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script type="text/javascript">
+    $.get("/members/MemberList", function (data) {
+        $("#result").html(data);        
+    });
+</script>

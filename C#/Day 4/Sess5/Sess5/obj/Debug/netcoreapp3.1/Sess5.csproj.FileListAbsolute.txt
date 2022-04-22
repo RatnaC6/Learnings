@@ -1,0 +1,13 @@
+D:\Data\Training\New\C# Programming\Day 4\Sess5\Sess5\bin\Debug\netcoreapp3.1\Sess5.exe
+D:\Data\Training\New\C# Programming\Day 4\Sess5\Sess5\bin\Debug\netcoreapp3.1\Sess5.deps.json
+D:\Data\Training\New\C# Programming\Day 4\Sess5\Sess5\bin\Debug\netcoreapp3.1\Sess5.runtimeconfig.json
+D:\Data\Training\New\C# Programming\Day 4\Sess5\Sess5\bin\Debug\netcoreapp3.1\Sess5.runtimeconfig.dev.json
+D:\Data\Training\New\C# Programming\Day 4\Sess5\Sess5\bin\Debug\netcoreapp3.1\Sess5.dll
+D:\Data\Training\New\C# Programming\Day 4\Sess5\Sess5\bin\Debug\netcoreapp3.1\Sess5.pdb
+D:\Data\Training\New\C# Programming\Day 4\Sess5\Sess5\obj\Debug\netcoreapp3.1\Sess5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Training\New\C# Programming\Day 4\Sess5\Sess5\obj\Debug\netcoreapp3.1\Sess5.AssemblyInfoInputs.cache
+D:\Data\Training\New\C# Programming\Day 4\Sess5\Sess5\obj\Debug\netcoreapp3.1\Sess5.AssemblyInfo.cs
+D:\Data\Training\New\C# Programming\Day 4\Sess5\Sess5\obj\Debug\netcoreapp3.1\Sess5.csproj.CoreCompileInputs.cache
+D:\Data\Training\New\C# Programming\Day 4\Sess5\Sess5\obj\Debug\netcoreapp3.1\Sess5.dll
+D:\Data\Training\New\C# Programming\Day 4\Sess5\Sess5\obj\Debug\netcoreapp3.1\Sess5.pdb
+D:\Data\Training\New\C# Programming\Day 4\Sess5\Sess5\obj\Debug\netcoreapp3.1\Sess5.genruntimeconfig.cache

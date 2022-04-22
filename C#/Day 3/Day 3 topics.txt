@@ -1,0 +1,69 @@
+Car
+ -Attributes (Variables)
+  -Color
+  -BrandName
+  -Length
+  -Breath
+  -Seats
+  -ClaimedMileage
+  -Engine
+  -EngineHorsePower
+  -FuelType
+  -Model
+ -Behavior (Functions)
+  -StartCruiseControl()
+  -StopCruiseControl()
+  -OpenWindow()
+  -CloseWindow()
+  -OpenSunRoof()
+  -CloseSunRoof()
+  -StartRadio()
+  -StopRadio()
+  -Start()
+  -Stop()
+
+Car is parent / base / super class
+Sedan is child / derived / sub class
+
+Key benefits of Inheritance:
+1. Resuse of code - parent code is copied into the child
+2. Dynamic functionality - we can decide exact object at runtime
+   since parent datatype can hold value of child type
+
+Function Hiding:-
+-code defined in child only runs when parent is not involved
+-new keyword should be used to tell the compiler that hiding is being
+ done intentionally
+
+Function Overriding-
+-code defined in the child will only run
+-override keyword required in child and virtual keyword required
+ in parent
+-using sealed keyword prevents further overriding in the next level
+ child onwards
+
+Inheritance
+-Types of Inheritance
+   -Single (example - Car and SUV)
+     -Only parent and child
+   -Multi level (example - Car, SUV and SevenSeaterSuv)
+     -Parent, child and grand child
+   -Multiple (not supported in .Net)
+
+Sealed class
+ -Marked with sealed keyword
+ -Cannot be inherited
+
+Abstract class
+ -Job is to act as a top level parent
+ -Marked with abstract keyword
+ -We cannot create an object of an abstract class
+ -Can have abstract functions
+ -When we declare a function as abstract, overriding it is mandatory
+  in the child class
+
+Interface
+ -Is a contract used to declare some functionality without defining
+  how exactly it will work
+ -Does not contain actual code but simply has declarations
+ -Name is prefixed with "I" as a convention

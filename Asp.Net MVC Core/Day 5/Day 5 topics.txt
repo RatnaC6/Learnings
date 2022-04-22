@@ -1,0 +1,27 @@
+Asp.Net Core Web API
+ -Built on top of Asp.Net Core for implementing Web Services / APIs
+ -Compatible with Open API Specification
+ -Created through a Controller class marked with [ApiController] Attribute and
+  inheriting ControllerBase or Controller class
+ -Focus is on using HTTP Protocol including HTTP Status Codes and HTTP Request and
+  Response
+ -Generally not used for returning a page
+ -Implementation of REST (Representational State Transfer) principles
+    -Use the different status codes of HTTP
+    -Use the different types of HTTP Request and Response
+ -REST advantages
+    -Universally supported on all devices that can connect to the internet
+     including IoT (Internet of Things)
+
+IController
+
+ControllerBase
+
+Controller
+
+System.Net.Http
+ -HttpClient
+   -Get()
+   -Post()
+
+

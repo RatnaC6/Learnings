@@ -1,0 +1,12 @@
+<h3>Submit a Complaint or Concern</h3>
+<p>
+    <label for="nameTextBox">Name</label>
+    <input type="text" id="messageTextBox" [formControl] = "pName"/>
+</p>
+<p>
+    <label for="messageTextBox">Message</label>
+    <input type="text" id="messageTextBox" [formControl] = "pMessage"/>
+</p>
+<p>
+    <button type="button" (click)="showResponse()">Submit Complaint</button>
+</p>

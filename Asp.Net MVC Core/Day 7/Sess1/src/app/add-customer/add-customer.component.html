@@ -1,0 +1,22 @@
+<h2>Add Customer</h2>
+
+<form [formGroup] = "customerForm" action="#">
+    <div>
+        <p>
+            <label for="cname">
+                Name
+            </label>
+            <input type="text" name="cname" id="cname" formControlName = "customerName" required/>
+        </p>
+        <p>
+            <label for="caddress">
+                Address
+            </label>
+            <input type="text" name="caddress" id="caddress" formControlName = "customerAddress" required/>
+        </p>
+        <p>
+            <button type="button" (click)="saveChanges()">Save</button>           
+        </p>
+        <a routerLink = "/customers">Go Back</a>
+    </div>
+</form>

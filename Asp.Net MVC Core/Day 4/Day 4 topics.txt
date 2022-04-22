@@ -1,0 +1,23 @@
+Filters:
+1. Authorize Filter - Login (Authentication and Authorization)
+2. Resource Filter - When a resource is being requested
+3. Action Filter - When an action will run
+4. Exception Filter - When an Exception occurs while processing the Action
+5. Result Filter - When the final html / output is being prepared to be sent to the Browser
+ResponseCache:
+ -Saves the output of an Action for a specific period of time
+ -Can be varied by arguments / some criteria
+ -Speeds up the processing of requests since repeat processing is avoided
+ -Illustration:
+   -Suppose 10000 people visit the Airline website to see the timetable of flights
+    within 5 mins
+     -Without Response Cache - database will be queried 10000 times 
+     -With Response Cache - the database will be queried 1 time
+
+ActionResult Types
+ -ContentResult - string
+ -ViewResult - View
+ -PartialViewResult - Partial View
+ -RedirectResult - Redirect to other Action
+ -StatusCodeResult - Return a Status Code
+ -JsonResult - Return Json

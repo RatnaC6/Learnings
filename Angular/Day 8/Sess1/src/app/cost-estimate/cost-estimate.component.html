@@ -1,0 +1,12 @@
+<div style="background-color:blue;color:whitesmoke;">
+    <label for="projectTypeDropDown">Select Type of Project</label>&nbsp;
+    <select id="projectTypeDropDown" [(ngModel)] = "selectedProjectCost" (change)="getProjectCost()">
+        <option [value]="projectType.cost" *ngFor="let projectType of projectTypes">
+            {{projectType.type}}
+        </option>
+    </select>
+
+    <p *ngIf="selectedProjectCost">
+        Costing starts at {{selectedProjectCost | currency}}
+    </p>
+</div>

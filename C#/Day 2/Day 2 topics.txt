@@ -1,0 +1,68 @@
+Object Oriented Programming:-
+-Object
+ -Anything
+ -Car, Bank Account, Student, Employee, Customer..
+
+-Abstraction
+  -Making communication easier by filtering out unnecessary detail
+
+-Encapsulation
+  -Way to do Abstraction
+  -Implemented using Class
+
+Object Relationships:
+  -Association
+   -Two objects depending on each other for their work (example - Product and Order)
+  -Dependency
+   -One object cannot work without another object (human being -> food, car -> petrol)
+  -Is-a relationship
+   -(example - LCD TV is a type of TV)
+   -Also known as Inheritance
+  -Aggregation (a.k.a Has-a relationship)
+   -(example - students in a class)
+  -Composition (strict type of Aggregation)
+   -Quantity of the contents / components is strictly defined
+   -(example - human body requires 1 heart to work, support of MPs to become PM)
+
+Polymorphism
+  -One thing, many forms
+  -(example - two girls may have different likes and dislikes, LCD TV and LED TV)
+
+C# is 100% Object Oriented
+ -Everything is an Object (all code should be in classes)
+
+Protection Level:
+ -private
+   -Default for members of a class
+   -Cannot be acccessed from outside the class
+ -protected
+   -Can only be accessed from child class
+ -internal
+   -Can be accessed from same program / library
+ -protected internal
+   -Can be accessed from the same program / library or from any child class
+ -public
+   -Can be accessed from anywhere, including outside the program / library
+
+Constructor
+ -Function with the same name as the class
+ -Should be declared as public
+ -Does not have a return type
+ -Runs automatically when an object is created
+
+Object Creation:
+-Manufacturer manufacturer; //Object declaration
+  -Object is declared but not initialized
+  -Results in runtime if object is called
+-Manufacturer manufacturer = null; //Object declared and set to null
+  -Object reference is pointing to an empty location in the Heap
+  -Results in Runtime error (Exception) when accessing
+-Manufacturer manufacturer = new Manufacturer(); //Object created
+  -Works without Runtime error assuming all other things are fine
+
+Property
+ -Allows exposing a variable outside the class
+ -Types
+    -Read Only (Only Get)
+    -Write Only (Only Set)
+    -Read Write (Get and Set both)

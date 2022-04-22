@@ -1,0 +1,18 @@
+﻿Locations List
+
+@{ 
+    string[] data = null;
+    if (ViewData["locations"] != null)
+        data = (string[])ViewData["locations"];
+}
+
+@if(data != null)
+{    
+    <h3>Locations</h3>
+    <ul>
+        @foreach (var item in data)
+        {
+            <li>@item</li>
+        }
+    </ul>
+}

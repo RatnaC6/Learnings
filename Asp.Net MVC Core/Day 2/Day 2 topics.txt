@@ -1,0 +1,16 @@
+Endpoint Routing
+Attribute Based Routing
+
+
+Model Binding
+ -convert query string / form fields etc into object of specified class
+
+ViewModel
+ -Data assigned to the View
+ -Only one ViewModel can be assinged to a View at a time
+
+==============
+Exercise
+==============
+1. Implement Product Search by Name
+2. Implement same Functionality for Employees

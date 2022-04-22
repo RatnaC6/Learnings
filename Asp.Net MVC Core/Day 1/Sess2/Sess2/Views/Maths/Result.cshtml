@@ -1,0 +1,14 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@if(ViewData["Result"] != null)
+{
+<p>
+    Result : @ViewData["Result"]
+</p>
+}
+
+<a class="nav-link text-dark" asp-controller="Maths" asp-action="Index">Go Back</a>

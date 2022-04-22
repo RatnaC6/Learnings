@@ -1,0 +1,32 @@
+==============================
+Exercises:-
+==============================
+
+https://docs.microsoft.com/en-in/aspnet/core/tutorials/web-api-javascript?view=aspnetcore-3.1
+
+https://docs.microsoft.com/en-in/aspnet/core/data/ef-mvc/?view=aspnetcore-3.1
+
+https://docs.microsoft.com/en-in/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio
+
+Content Type Negotiation
+ -The output of the ApiController can be changed as required by the client
+   -Json
+   -XML
+   -HTML
+   -etc.
+
+https://docs.microsoft.com/en-IN/aspnet/core/web-api/advanced/formatting?view=aspnetcore-3.1
+
+public void ConfigureServices(IServiceCollection services)
+{
+    services.AddControllers(options =>
+    {
+        options.RespectBrowserAcceptHeader = true; // false by default
+    });
+}
+
+.Net Formatters:
+ -XML
+ -Binary (not supported in Web API)
+ -SOAP
+ -JSON (System.Text.Json / Newtonsoft.Json)

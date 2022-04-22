@@ -1,0 +1,52 @@
+Case Study:
+-Central Theme
+  -Full Stack Application
+    -Database (PostgreSQL)
+    -NodeJS (backend services)
+    -Angular + HTML,CSS,JavaScript
+  -Demonstrate features of learnings
+    -Database
+      -Tables
+      -Relationship between tables
+      -Stored Procedures and Functions
+      -Indexes (optional)
+    -NodeJS
+      -API (Application Programming Interface) using Express
+         -Make Database entry
+         -Search in the Database
+         -etc  
+    -Angular
+      -Components
+      -Services
+      -Data Binding / Forms
+      -Routing
+      -Ajax features
+    -HTML,CSS,JavaScript (as required)
+    -Extras which are good to have
+      -Responsive Web Design
+      -In case Login is implemented, keep password encrypted in the database
+      -Project implementation through Git / GitHub.com
+  -Topic
+    -Until now..
+      -Online store
+        -Online grocery store
+        -Online pharmacy
+        -Online food ordering (example - pizza delivery)
+        -Online clothes shopping
+      -Scenarios which can be considered
+        -Portal for educational institution (school / college / university etc)
+        -Finance company (loans)
+        -Portal for hospital (managing patients, treatment etc)
+
+
+-GitHub steps
+  1. Any one member of the group will create repository and provide collaborator
+     permission to the other group members. Collaborators have write permission
+  2. The same person will create a new starter project and push into the repository
+  3. The rest of the group members will pull the project from the repository and maintain
+     local copies in their computers
+  4. Whenever new feature is created by anyone, the do:
+       a. git commit in the local system
+       b. git push to the repository
+  5. Do git pull before git push
+    

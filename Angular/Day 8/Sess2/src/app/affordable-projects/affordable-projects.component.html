@@ -1,0 +1,8 @@
+<h3>
+    Projects which are within the budget
+</h3>
+<div>
+    <p *ngFor = "let project of projectsInBudget">
+        {{project.type}} costs at least {{project.cost}}
+    </p>
+</div>

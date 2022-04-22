@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Session 2</title>
+        <style>
+            #flexBox
+            {
+                display: flex;
+                justify-content: center;
+                flex-direction: column;
+                flex-wrap: wrap;                
+            }
+            #flexTop
+            {
+                background-color: aliceblue;
+                text-align: center;
+                font-size: large;
+                display:flex;
+            }
+            #flexMiddleLeft
+            {
+                display: inline-flex;
+                background-color: rgb(170, 170, 32);
+                /* padding: 5em; */
+                width: 30%;
+                color: white;
+            }
+            #flexMiddleRight
+            {
+                display: inline-flex;
+                background-color: blueviolet;
+                /* padding: 5em; */
+                width: 30%;
+                color: white;
+            }
+            #flexRightBar
+            {
+                display: inline-flex;
+                height: 40%;
+                background-color: burlywood;
+                color: white;
+                padding: 1em;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flexBox">
+            <div id="flexTop">
+                Top Box
+                <h3>
+                    Flex Box Example
+                </h3>
+            </div>
+            <div id="flexMiddleLeft">
+                Middle Left Box
+            </div>
+            <div id="flexMiddleRight">
+                Middle Right Box
+            </div>
+            <div id="flexRightBar">
+                 Right content bar
+            </div>
+        </div>
+    </body>
+</html>

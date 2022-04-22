@@ -1,0 +1,30 @@
+JQuery Ajax Functions
+-Get()
+  -Make a GET request
+
+-GetJSON()
+  -Make a GET request and assume that JSON will be returned
+
+-GetScript()
+  -Make a GET request and assume that a JavaScript will be returned
+
+-Load()
+  -Make a GET request and load the returned HTML into the specified tag
+
+-Post()
+  -Make a POST request to the specified URL with the given data
+
+-Ajax()
+  -Make a request as per the given settings and data
+
+-JQuery Ajax functions are not available in jquery<<version>>.slim.min.js file
+-JQuery Ajax functions are not supported directly from the file system and require 
+use of Web Server
+
+
+MEAN Stack
+M-MongoDB
+E-ExpressJS
+A-Angular
+N-Node
+

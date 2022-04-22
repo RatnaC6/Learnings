@@ -1,0 +1,67 @@
+Collections
+ -Coming under System.Collections namespace
+ -Used for storing variable number of values
+ -Types
+    -Regular Collections
+      -Have datatype as object
+      -Performance impact due to boxing and unboxing
+      -System.Collections namespace
+    -Generic Collections
+      -Use Generics
+      -Higher Type Safety
+      -Better performance than regular collections
+      -System.Collections.Generic namespace
+    -Concurrent Collections
+      -For situations where synchronization is required  
+      -System.Collections.Concurrent namespace    
+    -Specialized Collections
+      -For some specialized and specific scenarios
+      -System.Collections.Specialized namespace
+
+Boxing - Unboxing:-
+object x = 10; //boxing
+Console.WriteLine((int)x); //unboxing
+
+object x = "abc";
+Console.WriteLine((int)x);
+
+Generics:-
+ -Creating general purpose classes and functions which can be used for the specified
+  data type
+ -As per the data type specified, the compiler will generate a new copy of the class
+  or function as per the given data type
+ -Enhanced type safety
+
+
+Regular Collections:-
+  -ArrayList
+  -Hashtable
+
+Important Interfaces
+  -ICollection (Regular Collections)
+  -ICollection<T> (Generic Collections)
+  -IEnumerable
+  -IEnumerable<T>
+
+Generic Collections:-
+  -List (Generic version of ArrayList)
+  -Dictionary (Generic version of Hashtable)
+
+Concurrent Collections:
+ -ConcurrentBag<T>
+ -ConcurrentQueue<T>
+ -ConcurrentDictionary<T>
+ -ConcurrentStack<T>
+
+Unit Testing:
+ -Helps to check code to ensure that it is working as required
+ -AAA Pattern (Arrange - Act - Assert)
+ -Libraries
+   -MS Test (Microsoft Test Framework)
+   -NUnit (3rd party free libraries for Unit Testing in .Net)
+ -MS Test
+   -TestClass
+   -TestMethod
+ -NUnit
+   -TestFixture
+   -Test

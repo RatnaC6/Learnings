@@ -1,0 +1,89 @@
+LINQ (Language Integrated Query)
+ -ICollection
+ -IEnumerable
+ -ICollection<T>
+ -IEnumerable<T>
+ -IQueryable<T> (contains Query Operator functions)
+   -Select()
+   -Where()
+   -OrderBy()
+   -OrderByDescending()
+   -Join()
+   -GroupBy()
+   -Min()
+   -Max()
+   -Average()
+   -Sum()
+   -Count()
+
+LINQ Features:
+ -Wherever IQueryable has been implemented, we can use LINQ
+ -Ready made functionality includes Collections, XML, Databases etc.
+ -Single SQL-like syntax for almost any kind of data source
+
+LINQ varieties:
+ -LINQ to Object (used for accessing collections)
+ -LINQ to SQL (originally made for Microsoft SQL Server but not used anymore)
+ -LINQ to DataSet (used for accessing data in a DataSet but not used so much anymore)
+ -LINQ to XML (used for accessing XML files)
+ -ADO.Net Entity Framework (used for accessing Databases)
+
+System.Linq namespace
+
+Deferred Execution / Lazy Loading
+ -Data is actually retreived when the result object is read
+
+Eager Loading
+ -Data is loaded immediately when some function like Count(), ToList() etc is called
+
+ADO.Net
+ -Used for accessing data
+ -Provider Model
+   -Built in Providers
+     -SQL Client (System.Data.SqlClient) - Microsoft SQL Server Database
+     -ODBC (System.Data.Odbc) - Access anything through ODBC
+     -OleDb (System.Data.Oledb) - Access any relational database
+   -3rd party Providers
+     -OracleClient (System.Data.OracleClient) - Oracle Database
+     -Npgsql - PostgreSQL
+ -ADO.Net Objects
+   -Connection - used to setup a connection with the database
+   -Command - used to execute SQL commands
+   -DataReader - used to read data result of a Select statement
+   -DataSet - used for getting one or more tables from the database for disconnected               access
+   -DataAdapter - used for managing the Connection and DataSet
+
+ADO.Net Entity Framework
+ -Allows database access using LINQ syntax
+ -Built on top of ADO.Net and uses Provider Model
+ -ADO.Net Entity Framework
+   -Database First - Database is ready before making the program
+   -Code First - Database is not ready before the program
+
+Libraries required:
+A) For PostgreSQL
+  -Npgsql.EntityFrameworkCore.PostgreSQL (version 5.0.10)
+  -Npgsql.EntityFrameworkCore.PostgreSQL.Design (version 5.0.10)
+
+B) Entity Framework Core Libraries
+  -Microsoft.EntityFrameworkCore (version 5.0.10)
+  -Microsoft.EntityFrameworkCore.Relational (version 5.0.10)
+  -Microsoft.EntityFrameworkCore.Design (version 5.0.10)
+  -Microsoft.EntityFrameworkCore.Abstractions (version 5.0.10)
+  -Microsoft.EntityFrameworkCore.Relational.Design (version 1.1.6) 
+  -Microsoft.EntityFrameworkCore.Tools (version 5.0.10)
+  -Microsoft.EntityFrameworkCore.Proxies (version 5.0.10)
+
+Commands:
+1. Scaffold-DbContext
+     -Used for creating a DbContext class
+     -Usage
+       Scaffold-DbContext -Connection "host=localhost;database=Northwind;user id=postgres;password=root;" -Provider "Npgsql.EntityFrameworkCore.PostgreSql"
+
+================
+Exercise
+================
+
+1. Connect to local Northwind Database
+2. Get a list of all Products
+3. Get a list of Products and their Prices in descending order of Price

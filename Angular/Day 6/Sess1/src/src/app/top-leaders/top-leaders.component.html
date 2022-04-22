@@ -1,0 +1,7 @@
+<h3>Top Leaders</h3>
+<div>
+    <p *ngFor = "let topLeader of topLeaders">
+        {{topLeader.id}} : <span class="highlightedName">{{topLeader.name}}</span> 
+        is the {{topLeader.designation | uppercase}}
+    </p>
+</div>

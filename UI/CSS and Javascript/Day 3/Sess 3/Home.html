@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+            var x = 2, y = 3;
+            //If declared in a function, message will be a global variable
+            //messageText = "Hi from Viren";
+            var messageHeading = "<h3>Greetings</h3>";
+            var messageText = "Hi from Viren";
+        </script>
+    </head>
+    <body>
+        <div>
+            <h3>Message</h3>
+            <div id="sectionHeading">
+                <!-- Show the messageHeading here dynamically -->
+            </div>         
+            <p id="message">
+                <!--Show the message here dynamically-->
+            </p>
+        </div>
+        <script>
+            // document.write(x+y);
+            // document.write(messageText);
+            //Show messageHeading variable's value inside the sectionHeading Div (Text format)
+            //document.getElementById("sectionHeading").innerText = messageHeading;
+            document.getElementById("sectionHeading").innerHTML = messageHeading;
+            //Show messageText variable's value inside the message paragraph (HTML format)
+            document.getElementById("message").innerHTML = messageText;
+           
+        </script>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+.highlighted
+{
+    background-color: blanchedalmond;
+    font-size: larger;
+    color: blue;    
+}
+
+.highlighted-heading
+{
+    background-color: darkorange;
+    color:white;
+}

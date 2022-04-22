@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "bluebird": "^3.7.2",
+        "bootstrap": "4.0",
+        "express": "4.0",
+        "jquery": "3.6.0",
+        "pg-promise": "^10.11.1",
+        "workerpool": "6.2.0"
+    }
+}

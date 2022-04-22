@@ -1,0 +1,13 @@
+Angular Services
+
+Steps for Angular Service
+1. ng generate service <<name>>
+2. Add code for the service
+3. Go to app.module.ts file and import the service, then add it in providers array
+4. To use the service in a page / component
+     a. Import the service into the component
+     b. [Optional] Import any class or code that the service may need
+     c. Use Inject() statement before @Component statement to inject the service
+        through Angular Injector
+     d. In the component constructor function, declare the service object as
+        a private argument

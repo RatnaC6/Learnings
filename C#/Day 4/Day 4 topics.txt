@@ -1,0 +1,64 @@
+Types in .Net:
+ -Class
+ -Interface
+ -Delegate
+ -Enum
+ -Structure
+
+Categories of Types:
+1. Value Type (Enum, Structure)
+2. Reference Type (Class, Interface, Delegate)
+
+Car fistCar = new Car();
+firstCar.Seats = 10;
+
+Car alsoFirstCar = firstCar;
+Console.WriteLine(alsoFirstCar.Seats); //10
+
+int x = 5;
+int y = x;
+
+x = 30;
+Console.WriteLine(y);//5
+
+Structure:
+ -Passed by value
+ -All built in data types except String are internally Structures
+ -Cannot have a Constructor without Arguments
+ 
+Delegate:
+ -Allows calling a function
+ -Examples:
+   -Events
+   -Callback Functions
+   -Function passed as argument
+ -Delegate must match the function signature
+   -Return type
+   -Number of arguments
+   -Data type of arguments
+
+ -Delegate declaration
+ -Delegate object
+ -Delegate Invocation (calling)
+ -Built in delegates for general purpose
+   -Action - function not returning a value
+   -Func - function that returns a value
+
+Exception Handling
+ -Exception is a situation outside the boundary of the application or not matching
+  the business rules
+ -Represented by the built in System.Exception class
+ -There are other built in classes as per the situation
+ 
+ -Any code which may cause Exception to be raised is written in try block
+ -If an Exception is raised, execution is stopped and transferred to the first matching
+  catch block. Necessary action such displaying error message can then be done. The
+  Exception can also be passed to the calling out or to the outer code to be processed
+ -To close the activity, we use finally block. Finally block is guaranteed to execute.
+  Statements like break, return and continue cannot be used in finally block
+ -To raise Exception we use throw keyword
+ -When an Exception is not handled, it is sent to the outer level and in the end, it goes to the calling code.
+  	Finally, it reaches main function of calling code and if not yet handled, the program will consider it as an 
+	unhandled Exception and the program will exit.
+ -Along with try, we need either catch or finally or both
+  

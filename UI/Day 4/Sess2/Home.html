@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Session 2</title>
+        <script type="text/javascript">
+            function SaveDetails(){
+                var pName = document.getElementById("pName").value;
+                var pTel = document.getElementById("pTel").value;
+
+                //Save Data
+                //Approach 1
+                localStorage.pName = pName; //pName is the key and value of pName variable is the value
+                localStorage.pTel = pTel;
+
+                //Approach 2
+                // localStorage.setItem("pName",pName);
+                // localStorage.setItem("pTel",pTel);
+
+                if(localStorage.pName){
+                    alert("Hi : "+ localStorage.pName);
+                }
+                else{
+                    alert("Sorry..the data was not found..");
+                }
+
+                
+            }
+        </script>
+    </head>
+    <body>
+        <h2>Storing data locally</h2>
+        <div>
+            <form>
+                <label for="pName">Name</label>
+                <input type="text" id="pName" placeholder="Enter your name here"/>
+                <label for="pTel">Telephone</label>
+                <input type="tel" id="pTel"placeholder="4783-489392"/>
+                <button type="button" onclick="SaveDetails()">Save details</button>
+            </form>
+        </div>
+    </body>
+</html>

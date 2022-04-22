@@ -1,0 +1,220 @@
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.deps.json
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.runtimeconfig.json
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.runtimeconfig.dev.json
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.exe
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.Tests.deps.json
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.Tests.runtimeconfig.json
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.Tests.runtimeconfig.dev.json
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.Tests.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.Tests.pdb
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.pdb
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.csproj.AssemblyReference.cache
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.AssemblyInfoInputs.cache
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.AssemblyInfo.cs
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.csproj.CoreCompileInputs.cache
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.csproj.CopyComplete
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.pdb
+D:\Data\Training\New\C# Programming\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.genruntimeconfig.cache
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.deps.json
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.runtimeconfig.json
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.runtimeconfig.dev.json
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.exe
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.Tests.deps.json
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.Tests.runtimeconfig.json
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.Tests.runtimeconfig.dev.json
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.Tests.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.Tests.pdb
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\bin\Debug\netcoreapp3.1\Sess5.pdb
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.csproj.AssemblyReference.cache
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.AssemblyInfoInputs.cache
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.AssemblyInfo.cs
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.csproj.CoreCompileInputs.cache
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.csproj.CopyComplete
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.dll
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.pdb
+D:\Taught\C#\Day 5\Sess5\Sess5.Tests\obj\Debug\netcoreapp3.1\Sess5.Tests.genruntimeconfig.cache

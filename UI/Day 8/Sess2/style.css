@@ -1,0 +1,32 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) 
+{
+    #table1
+    {
+        font-size: smaller;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) 
+{
+    #table1
+    {
+        font-size: larger;
+    }    
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) 
+{
+    #table1
+    {
+        font-size: x-large;
+    }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) 
+{
+    
+}

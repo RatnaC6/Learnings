@@ -1,0 +1,13 @@
+To create a starter angular project with default routing
+ng new Sess2 --routing 
+
+Angular Databinding
+
+----
+Exercise:
+1. Add a new component called top-leaders
+2. In the component's ts file, create an array of TopLeader class
+   Use topLeaders : TopLeader[] = [ {}, {}];
+3. In the component's html file, use *ngFor to display the array
+   Use {{topLeader.name}} type of syntax in the html to access the variables
+----

@@ -1,0 +1,76 @@
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Sess3.exe
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Sess3.deps.json
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Sess3.runtimeconfig.json
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Sess3.runtimeconfig.dev.json
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Sess3.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Sess3.pdb
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.csproj.AssemblyReference.cache
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.AssemblyInfoInputs.cache
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.AssemblyInfo.cs
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.csproj.CoreCompileInputs.cache
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.csproj.CopyComplete
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.dll
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.pdb
+D:\Data\Training\New\C# Programming\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.genruntimeconfig.cache
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Sess3.exe
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Sess3.deps.json
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Sess3.runtimeconfig.json
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Sess3.runtimeconfig.dev.json
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Sess3.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Sess3.pdb
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.csproj.AssemblyReference.cache
+D:\Taught\C#\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taught\C#\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.AssemblyInfoInputs.cache
+D:\Taught\C#\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.AssemblyInfo.cs
+D:\Taught\C#\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.csproj.CoreCompileInputs.cache
+D:\Taught\C#\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.csproj.CopyComplete
+D:\Taught\C#\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.dll
+D:\Taught\C#\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.pdb
+D:\Taught\C#\Day 6\Sess3\Sess3\obj\Debug\netcoreapp3.1\Sess3.genruntimeconfig.cache

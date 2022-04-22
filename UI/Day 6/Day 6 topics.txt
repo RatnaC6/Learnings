@@ -1,0 +1,5 @@
+Callback features:
+1. The function does not need to care about code inside the callback
+function as long as it is taking the required arguments
+2. Leads to loosely coupled code that is easier to update
+3. The exact position where the callback function is called is decided by the called code not calling code

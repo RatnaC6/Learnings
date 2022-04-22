@@ -1,0 +1,14 @@
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\bin\Debug\netcoreapp3.1\Sess1.exe
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\bin\Debug\netcoreapp3.1\Sess1.deps.json
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\bin\Debug\netcoreapp3.1\Sess1.runtimeconfig.json
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\bin\Debug\netcoreapp3.1\Sess1.runtimeconfig.dev.json
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\bin\Debug\netcoreapp3.1\Sess1.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\bin\Debug\netcoreapp3.1\Sess1.pdb
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\obj\Debug\netcoreapp3.1\Sess1.csproj.AssemblyReference.cache
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\obj\Debug\netcoreapp3.1\Sess1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\obj\Debug\netcoreapp3.1\Sess1.AssemblyInfoInputs.cache
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\obj\Debug\netcoreapp3.1\Sess1.AssemblyInfo.cs
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\obj\Debug\netcoreapp3.1\Sess1.csproj.CoreCompileInputs.cache
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\obj\Debug\netcoreapp3.1\Sess1.dll
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\obj\Debug\netcoreapp3.1\Sess1.pdb
+D:\Data\Training\New\C# Programming\Day 5\Sess1\Sess1\obj\Debug\netcoreapp3.1\Sess1.genruntimeconfig.cache

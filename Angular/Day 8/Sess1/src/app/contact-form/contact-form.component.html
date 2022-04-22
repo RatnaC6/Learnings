@@ -1,0 +1,37 @@
+<h2>Get in touch</h2>
+<div>
+    <p>
+        <label for="nameTextBox">Name</label>
+        <input type="text" [(ngModel)] = "pName"/>
+    </p>
+    <p>
+        <label for="phoneTextBox">Phone</label>
+        <input type="text" [(ngModel)] = "pPhone" />
+    </p>
+    <p>
+        <label for="locationTextBox">Location</label>
+        <input type="text" [(ngModel)] = "pLocation"/>
+    </p>
+    <p>
+        <label for="messageTextBox">Message</label>
+        <input type="text" [(ngModel)] = "pMessage"/>
+    </p>
+    <p>
+        <button type="button" (click) = "showResponse()">Submit Message</button>
+    </p>
+    <div *ngIf = "pName">
+        <h3>Details of your message</h3>
+        <p>
+            Name : {{pName}}
+        </p>
+        <p *ngIf = "pLocation">
+            Location : {{pLocation}}
+        </p>
+        <p *ngIf = "pPhone">
+            Phone : {{pPhone}}
+        </p>
+        <p *ngIf = "pMessage">
+            Message : {{pMessage}}
+        </p>
+    </div>
+</div>

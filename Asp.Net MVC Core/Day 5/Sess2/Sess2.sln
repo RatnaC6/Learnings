@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sess2", "Sess2\Sess2.csproj", "{15C9A472-92C8-4A19-AAD7-79A83BF08917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sess2.Models", "Sess2.Models\Sess2.Models.csproj", "{283430B1-9FC1-4F2E-9CD3-202FDF4BD360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C9A472-92C8-4A19-AAD7-79A83BF08917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C9A472-92C8-4A19-AAD7-79A83BF08917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C9A472-92C8-4A19-AAD7-79A83BF08917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C9A472-92C8-4A19-AAD7-79A83BF08917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283430B1-9FC1-4F2E-9CD3-202FDF4BD360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283430B1-9FC1-4F2E-9CD3-202FDF4BD360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283430B1-9FC1-4F2E-9CD3-202FDF4BD360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283430B1-9FC1-4F2E-9CD3-202FDF4BD360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F82078A0-9D39-44E1-B841-DC4837DC66B5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+﻿@page
+@model IndexModel
+@{
+    //ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Razor Pages Example";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div>
+    <h3>Products</h3>
+    <ul class="list-unstyled">
+        @foreach (var product in Model.products)
+        {
+            <li class="list-group-item">@product.Name costs @product.Price</li>
+        }
+    </ul>
+    
+</div>

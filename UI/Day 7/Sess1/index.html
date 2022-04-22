@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Session 1</title>
+        <script type="text/javascript" src="app.js"></script>
+        <style>
+            #details
+            {
+                border-radius: 10em;
+                border-color: beige;
+                background-color: azure;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: large;
+                padding-right: 2em;
+                width: 30%;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <button type="button" onclick="getLocation()">Show Location</button>
+        <fieldset id="details">
+            <legend>Location Details</legend>
+            <p id="latitudePara"></p>
+            <p id = "longitudePara"></p>
+        </fieldset>   
+        <p id="errorLabel"></p>     
+    </body>
+</html>

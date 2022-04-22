@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Session 3</title>
+    </head>
+    <body>
+        <h3>Register for the Graduate Program</h3>
+        <!-- URL to be replaced later with a suitable one-->
+        <form method="post" action="http://www.mastek.com">
+            <p>
+                Name <input type="text" id="userName"/>
+            </p>
+            <p>
+                User Name <input type="text" minlength="3" required id="userID"/>
+            </p>
+            <p>
+                Password <input type="password" minlength="8" required id="userID"/>
+            </p>
+            <p>
+                Gender <select id="userGender">
+                         <option value="Male" selected>Male</option>
+                         <option value="Female">Female</option>
+                         <option value="Others">Others</option>
+                       </select>
+            </p>
+            <p>
+                Marital Status
+                <!-- Name must be same so that only 1 can be selected-->
+                <input type="radio" name="maritalStatus">Married</input>
+                <input type="radio" name="maritalStatus">Unmarried</input>
+                <input type="radio" name="maritalStatus">Divorced</input>
+            </p>
+
+            <p>
+                Age <select id="userAge">
+                        <option value="1">1 to 10</option>
+                        <option value="10">10 to 20</option>
+                        <option value="20" selected>20 to 30</option>
+                        <option value="30">30 to 40</option>
+                        <option value="40">40 to 50</option>
+                    </select>
+
+                    <input type="range" min="0" max="120" id="userAge2"/>
+                    <input type="number" min="0" max="120" id="userAge3" required/>
+            </p>
+            <p>
+                Phone <input type="text" id="userPhoneNumber"/>
+            </p>
+            <p>
+                Address <textarea id="userAddress" rows="5" col="10">
+                    </textarea>
+            </p>
+            <p>
+                Email <input type="email" id="userName"/>
+            </p>
+            <p>
+                <!-- Using checked by default is not recommended due to GDPR reasons-->
+                <input type="checkbox" id="userAgrees" checked>
+                I agree with the terms and conditions as part of the membership
+                </input>
+            </p>
+            <p>
+                <button type="submit">Register</button>
+                <button type="reset">Reset form</button>
+            </p>
+        </form>
+    </body>
+</html>

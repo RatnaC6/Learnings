@@ -1,0 +1,68 @@
+UI Module
+ -HTML
+ -CSS
+ -JavaScript
+ -Bootrap
+
+Network - connects computers and devices with each other
+ -Local Area Network (LAN)
+ -Metropolitan Area Network (MAN)
+ -Wide Area Network (WAN)
+
+ -Internet - connects all major networks with each other
+ -Web / WWW / World Wide Web - set of software and protocols working on top of internet
+   -HTTP (Hyper Text Transfer Protocol)
+     -HTTP Server (server running mastek.com domain)
+     -HTTP Client (software used for connecting to a HTTP Server) - IE / Chrome
+     -HTTP Request
+       -GET (When a resource is requested)
+       -POST (When some data is sent as a new entry) example - registration form
+       -PUT (When some data is sent to replace existing data)
+       -DELETE (When some data needs to be deleted)
+       -TRACE (Used for some error checking and debugging)
+       -OPTIONS (Which of the other options is enabled on the Server)
+       -PATCH (When some portion of existing data is to be changed)
+     -HTTP Response
+       -Resource
+       -HTTP Status Code
+         -200 - OK
+         -404 - Requested resource was not found
+         -401 - Access Denied
+         -500 - Server Error
+   -FTP (File Transfer Protocol)
+     -Used for sending and receiving files
+   -SMTP (Simple Mail Transfer Protocol)
+     -Used for sending emails
+   -POP3 (Post Office Protocol)
+     -Receiving emails
+
+Hyper Text
+ -Text and other content, which is connected to other content
+
+HTML (Hyper Text Markup Language)
+ -Used for defining Web content
+
+CSS (Cascading Style Sheets)
+ -Used for formatting
+
+JavaScript
+ -Used for interactivity and client side programming
+
+-----------------------------------------
+Important Resources
+ -w3schools.com
+   -Operated by World Wide Web Consortion (W3C)
+ -MDN (Mozilla Developer Network)
+-----------------------------------------  
+
+HTML 5 - prevailing HTML Standard
+  -Semantic Elements (tags added for meaning)
+    -hgroup - used for grouping related headings
+    -article - used for grouping related content
+    -aside - used for extra content that is not directly related to the main content
+               (example - ads)
+    -figure - used for displaying an image with a description
+    -header - used to declare a header for a page / article / section
+    -footer - used to declare a footer for a page / article / section
+    -section - used to define a section of a page
+    -nav - used to provide navigation links on the page

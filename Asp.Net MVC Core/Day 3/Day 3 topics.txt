@@ -1,0 +1,53 @@
+CORS in Asp.Net Core:
+ -Add the following packages:
+   -Microsoft.AspNetCore.Cors
+   -Microsoft.AspNetCore.MVC.Cors
+        OR
+   -Microsoft.AspNetCore.WebApi.Cors
+ -In Startup.cs file
+   -In ConfigureServices() function, add
+      services.AddCors(options =>{
+        options.AddDefaultPolicy(policy =>policy.AllowAnyOrigin());
+      });
+ -In Configure() function, add
+      app.UseCors(builder => builder.AllowAnyMethod()
+                                          .AllowAnyOrigin()
+                                           .AllowAnyHeader());
+      between app.UseRouting() and app.UseAuthorization()
+ -In the respective Action, add
+   Response.Headers.Add(new KeyValuePair<string, 
+                Microsoft.Extensions.Primitives.StringValues>("Access-Control-Allow-Origin", "*"));
+            Response.Headers.Add(new KeyValuePair<string,
+                Microsoft.Extensions.Primitives.StringValues>("Access-Control-Allow-Headers",
+                "Origin, X-Requested-With, Content-Type, Accept, Authorization"));
+
+Asp.Net Core Identity
+  -Authentication and Authorization
+  -Authentication
+    -Individual Accounts - Login through database
+    -Windows - Windows account through Active Directory
+    -Microsoft Identity Platform
+
+  -Identity related NuGet Packages
+    -Microsoft.Extensions.Identity.Core (v5.0.10)
+    -Microsoft.Extensions.Identity.Stores (v5.0.10)
+    -Microsoft.AspNetCore.Identity (v2.2)
+    -Microsoft.AspNetCore.Identity.EntityFrameworkCore (v5.0.10)
+    -Microsoft.AspNetCore.Identity.UI (v3.1.23)
+    -Microsoft.Extensions.Hosting (v3.1.23)
+
+  -Steps
+    -Create an empty database
+    -In the project, delete the Data\Migrations folder
+    -In appsettings.json file, add a connectionString with
+     the path of the empty database
+    -In Startup.cs file, under ConfigureServices() function,
+       add
+      services.AddDbContext<class_name>(options =>
+            options.UseNpgSql(Configuration.GetConnectionString
+           ("name_of_connection_string")));
+       services.AddDefaultIdentity<IdentityUser>(options =>
+            options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ApplicationDbContext>();
+
+    -Add-Migration "name" -o "folder_name"
+    -Update-Database

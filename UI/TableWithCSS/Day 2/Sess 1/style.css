@@ -1,0 +1,47 @@
+   /* target all table tags */
+   table
+   {               
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif; 
+      color: white;
+      padding: 0px;
+      caption-side: bottom; /*Show caption below the table */
+   }
+   /* target all td tags */
+   td
+   {
+       /*padding:3px;*/
+       padding-left: 5px;
+       padding-right:5px;
+   }
+   /* target all th tags */
+   th
+   {
+       padding-left: 5px;
+       padding-right:5px;
+   }
+
+   /* target tag with id as sideCaption */
+   #sideCaption
+   {                
+       width: 30px; /* Not a recommended practice */
+       font-size: smaller;
+       word-wrap: break-word;
+       text-overflow: ellipsis;
+   }
+   /* target tag with the id sideCaption */
+   #leftSection
+   {
+       width: 350px; /* Not recommended */
+       float: left;
+       background-color:coral;
+       color: white;
+   }
+
+   /*CSS class to represent some important text */
+   .highlightedText
+   {
+       font-weight: bold; /* Make the text bold */
+       font-size: larger; /*Current size +1 */
+       color: blue;
+   }

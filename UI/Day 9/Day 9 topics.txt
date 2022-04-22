@@ -1,0 +1,31 @@
+XML -eXtensible Markup Language
+
+XML Syntax:
+
+<Employee>
+  <Name>abc</Name>
+  <EmpCode>1</EmpCode>
+  <Location>Mahape</Location>
+  <Project team="1">PQR</Project>
+</Employee>
+
+JSON:
+
+{
+  "Name":"abc",
+  "EmpCode":1,
+  "Location":"Mahape"
+}
+
+----------------
+JQuery:-
+----------------
+JQuery highlights:
+ -Cross-browser JavaScript
+ -Large Library with lots of utilities
+ -Powerful DOM Manipulation
+ -Ajax Functionality to call APIs (earlier known as Asynchronous JavaScript and XML)
+ -Handling Events
+ -Rich UI Elements (JQuery UI Library)
+ -Powerful Selector Syntax similar to CSS
+ -Unobtrusive JavaScript

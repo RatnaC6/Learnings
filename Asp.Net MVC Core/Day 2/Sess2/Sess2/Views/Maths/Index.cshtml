@@ -1,0 +1,14 @@
+﻿@model Inputs
+
+<form asp-controller="Maths" asp-action="Index" method="post">
+    X &nbsp;<input type="text" id="x" asp-for="X" /><br />
+    Y &nbsp;<input type="text" id="y" asp-for="Y" /><br />
+    <input type="submit" value="Add" />
+</form>
+
+@if (ViewData["Result"] != null)
+{
+    <p>
+        Result : @ViewData["Result"]
+    </p>
+}

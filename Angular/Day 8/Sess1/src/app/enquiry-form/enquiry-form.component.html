@@ -1,0 +1,46 @@
+<h3>Enquire about our services</h3>
+<div>
+    <!-- Details of the person -->
+    <div>
+        <form [formGroup]="personDetails">
+            <p>
+                <label for="pName">Name</label>
+                <input type="text" formControlName = "pName"/>
+            </p>
+            <p>                
+                <label for="pDesignation">Designation</label>
+                <input type="text" formControlName="pDesignation"/>
+            </p>
+        </form>
+    </div>
+    <!-- Details of the company they represent -->
+    <div>
+        <form [formGroup]="companyDetails">
+            <p>
+                <label for="companyName">Company Name</label>
+                <input type="text" formControlName = "companyName"/>
+            </p>
+            <p>
+                <label for="companySize">Number of employees</label>
+                <input type="text" formControlName = "companySize"/>
+            </p>
+            <p>
+                <label for="projectBudget">Budget of Project (USD)</label>
+                <input type="text" formControlName="projectBudget"/>
+            </p>
+        </form>        
+    </div>
+    <p>
+        <button type="button" (click)="showResponse()">Submit Enquiry</button>
+    </p>
+</div>
+
+<!-- <div *ngIf="personDetails">
+    <p>
+        {{personDetails | json}}
+    </p>
+</div> -->
+
+<div>
+    <app-cost-estimate></app-cost-estimate>
+</div>

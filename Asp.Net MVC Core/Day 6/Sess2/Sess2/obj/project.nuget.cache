@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BozioW6LJ/xX9LvfshonDV9XdXcw/njE3EdeWq/VFfr6qVY7QBfWS0/FFOT6f1IdsP2xm6sQloN5xQOZNI2axA==",
+  "success": true,
+  "projectFilePath": "D:\\Taught\\Asp.Net MVC Core\\Day 6\\Sess2\\Sess2\\Sess2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ratnas104142\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.23\\microsoft.aspnetcore.jsonpatch.3.1.23.nupkg.sha512",
+    "C:\\Users\\Ratnas104142\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.23\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.23.nupkg.sha512",
+    "C:\\Users\\Ratnas104142\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Ratnas104142\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Ratnas104142\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Ratnas104142\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ratnas104142\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ratnas104142\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

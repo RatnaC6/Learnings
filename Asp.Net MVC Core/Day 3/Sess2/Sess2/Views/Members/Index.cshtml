@@ -1,0 +1,18 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<h3>
+    Welcome to the members area!
+</h3>
+<div>
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <p class="text-dark">
+            Hi @User.Identity.Name.Split("@")[0]!
+        </p>
+    }
+    </div>
+    <div class="border-info">
+        @await Html.PartialAsync("MemberList")
+    </div>
